@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /.phpunit.cache
 /node_modules
 /public/build
@@ -16,3 +17,6 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+=======
+.env
+>>>>>>> ecd9503ebdd244daf828a27d65c50bbd1b210589
